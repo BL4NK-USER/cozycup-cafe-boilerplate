@@ -16,6 +16,11 @@ An Exercise to Learn the creation and utilization of Git ReadMe
 
 ## About the Authors
 
+<p>
+
+<img src ="https://github.com/BL4NK-USER.png" width="150" style="border-radius:50%;"/>
+  
+</p>
 
 **Name: Raz** 
 
