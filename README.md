@@ -17,5 +17,5 @@ An Exercise to Learn the creation and utilization of Git ReadMe
 ## About the Authors
 
 
-**Name: Raz** 
-**Email: @gmail.com** 
+<p>**Name: Raz** 
+**Email: @gmail.com**</p> 
