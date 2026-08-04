@@ -2,14 +2,16 @@
 
 # Project Description
 
-An Exercise to Learn the creation and utilization of Git ReadMe
+A Cafe Management System to manage customer orders, and monitor sales transaction. 
 
 </div>
 
 ## Features
 
 - Choose and Combine your own brew
-- Option to pick up or Delivery
+- Delivery System
+- Order Details
+- Menu to choose from
 
 ## Screen Captures
 
