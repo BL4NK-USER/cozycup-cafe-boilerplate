@@ -27,6 +27,6 @@ A Cafe Management System to manage customer orders, and monitor sales transactio
 
 <img src ="https://github.com/AkiiSauceCode.png" width="150" style="border-radius:50%;"/>
 
-**Name: Arc** 
+**Name: Aki** 
 
 **Email: @gmail.com**
