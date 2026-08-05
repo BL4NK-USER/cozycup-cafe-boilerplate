@@ -23,3 +23,10 @@ A Cafe Management System to manage customer orders, and monitor sales transactio
 **Name: Raz** 
 
 **Email: @gmail.com**
+
+
+<img src ="https://github.com/AkiiSauceCode.png" width="150" style="border-radius:50%;"/>
+
+**Name: Arc** 
+
+**Email: @gmail.com**
