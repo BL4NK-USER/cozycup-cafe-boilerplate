@@ -46,9 +46,9 @@ nav a:hover {
 .hero {
     text-align: center;
     padding: 150px 0;
-    background-image: url('img/3e7c143a0d3ff5c7037c8139b3470218.jpg');
+    background-image: url('3e7c143a0d3ff5c7037c8139b3470218.jpg');
     background-size: cover;
-    color: white;
+    color: rgb(102, 83, 69);
 }
 
 .hero h1 {
@@ -96,7 +96,7 @@ nav a:hover {
 }
 
 .about p {
-    font-size: 18px;
+    font-size: 15px;
     max-width: 800px;
     margin: 0 auto;
 }
@@ -114,7 +114,7 @@ nav a:hover {
 }
 
 .contact p {
-    font-size: 18px;
+    font-size: 15px;
     margin-bottom: 40px;
 }
 
@@ -122,5 +122,6 @@ footer {
     background-color: #4c3c32;
     color: white;
     text-align: center;
-    padding: 20px 0;
+    padding: 10px 0;
+    font-size: 15px;
 }
