@@ -134,7 +134,7 @@ footer {
 }
 
 .gallery-item {
-    width: 180px;
+    width: auto;
     border: 1px solid #ccc;
 }
 
